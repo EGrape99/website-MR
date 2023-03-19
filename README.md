@@ -2,18 +2,18 @@
 
 # ![Логотип Mysterious Road](/emfWO5qRMUs.jpg)
 
-Всем привет, на связи cover dance team Mysterious Road
+_Всем привет, на связи cover dance team Mysterious Road_ :wave:
 
-Наша команда существует с 2013 года
+_Наша команда существует с 2013 года_
 
-## Действующий танцевальный состав
+## Действующий танцевальный состав :dancers:
 1. Настя - лидер
 2. Бибер
 3. Настасья
 4. Лена
 5. Даха
   
-## Наши достижения и участия
+## Наши достижения и участия :trophy:
 - Участники фестиваля Panicon! почти всех годов
 - Победители мужской номинации на Pani_K! 019
 - Участники K-POP COVER DANCE FESTIVAL 2014, 2017, 2021
@@ -31,7 +31,7 @@
 - 1 место на фестивале KtoK Day 2021
 - Участники финала K-pop Cover Battle ★ Saint-P 2022
 
-### Ссылки на соцсети
-[www.youtube.com/channel/UCdjK_kEY5ulV9j9reFNB-DA](https://www.youtube.com/channel/UCdjK_kEY5ulV9j9reFNB-DA)
+### Ссылки на соцсети :globe_with_meridians:
+**YouTube:** [www.youtube.com/channel/UCdjK_kEY5ulV9j9reFNB-DA](https://www.youtube.com/channel/UCdjK_kEY5ulV9j9reFNB-DA)
 
-[vk.com/mr_family](https://vk.com/mr_family)
+**Вконтакте:** [vk.com/mr_family](https://vk.com/mr_family)
