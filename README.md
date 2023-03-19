@@ -1,6 +1,6 @@
 # Mysterious Road
 
-# ![Логотип Mysterious Road](img/emfWO5qRMUs.jpg)
+# ![Логотип Mysterious Road](/emfWO5qRMUs.jpg)
 
 Всем привет, на связи cover dance team Mysterious Road
 
