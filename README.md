@@ -1,16 +1,17 @@
 # Mysterious Road
 
-# ![Логотип Mysterious Road](img/../emfWO5qRMUs.jpgemfWO5qRMUs.jpg)
+# ![Логотип Mysterious Road](img/emfWO5qRMUs.jpg)
 
 Всем привет, на связи cover dance team Mysterious Road
+
 Наша команда существует с 2013 года
 
 ## Действующий танцевальный состав
-- Настя - лидер
-- Бибер
-- Настасья
-- Лена
-- Даха
+1. Настя - лидер
+2. Бибер
+3. Настасья
+4. Лена
+5. Даха
   
 ## Наши достижения и участия
 - Участники фестиваля Panicon! почти всех годов
@@ -32,4 +33,5 @@
 
 ### Ссылки на соцсети
 [www.youtube.com/channel/UCdjK_kEY5ulV9j9reFNB-DA](https://www.youtube.com/channel/UCdjK_kEY5ulV9j9reFNB-DA)
+
 [vk.com/mr_family](https://vk.com/mr_family)
